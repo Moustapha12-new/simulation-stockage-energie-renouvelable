@@ -130,6 +130,4 @@ Exécuter les cellules du carnet dans l'ordre. Le fichier `.pbix` s'ouvre dans P
 - **Thomas DHUNARA**
 - **Mariel FRESNEL**
 
-Ces personnes sont désignées comme **équipe chargée de la reprise, de la vérification et de l'approfondissement de l'étude**. L'archive de départ contenait des documents d'une autre provenance. Leur présence ici ne démontre pas qu'ils ont été entièrement produits par le groupe.
 
-Le fichier `LICENSE` initial était vide ; il a été retiré, ainsi que l'affirmation d'une licence non établie. **L'absence de licence dans cette archive ne constitue pas une autorisation de redistribuer les éléments préexistants.** Vérifier les droits de réutilisation et les règles d'attribution auprès de leur auteur ou du professeur avant toute publication ou remise.
